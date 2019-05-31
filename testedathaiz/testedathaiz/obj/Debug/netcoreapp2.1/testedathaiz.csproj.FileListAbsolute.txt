@@ -1,0 +1,11 @@
+C:\Git\git do teste da thaiz\teste_da_thaiz\testedathaiz\testedathaiz\bin\Debug\netcoreapp2.1\testedathaiz.deps.json
+C:\Git\git do teste da thaiz\teste_da_thaiz\testedathaiz\testedathaiz\bin\Debug\netcoreapp2.1\testedathaiz.runtimeconfig.json
+C:\Git\git do teste da thaiz\teste_da_thaiz\testedathaiz\testedathaiz\bin\Debug\netcoreapp2.1\testedathaiz.runtimeconfig.dev.json
+C:\Git\git do teste da thaiz\teste_da_thaiz\testedathaiz\testedathaiz\bin\Debug\netcoreapp2.1\testedathaiz.dll
+C:\Git\git do teste da thaiz\teste_da_thaiz\testedathaiz\testedathaiz\bin\Debug\netcoreapp2.1\testedathaiz.pdb
+C:\Git\git do teste da thaiz\teste_da_thaiz\testedathaiz\testedathaiz\obj\Debug\netcoreapp2.1\testedathaiz.csprojAssemblyReference.cache
+C:\Git\git do teste da thaiz\teste_da_thaiz\testedathaiz\testedathaiz\obj\Debug\netcoreapp2.1\testedathaiz.csproj.CoreCompileInputs.cache
+C:\Git\git do teste da thaiz\teste_da_thaiz\testedathaiz\testedathaiz\obj\Debug\netcoreapp2.1\testedathaiz.AssemblyInfoInputs.cache
+C:\Git\git do teste da thaiz\teste_da_thaiz\testedathaiz\testedathaiz\obj\Debug\netcoreapp2.1\testedathaiz.AssemblyInfo.cs
+C:\Git\git do teste da thaiz\teste_da_thaiz\testedathaiz\testedathaiz\obj\Debug\netcoreapp2.1\testedathaiz.dll
+C:\Git\git do teste da thaiz\teste_da_thaiz\testedathaiz\testedathaiz\obj\Debug\netcoreapp2.1\testedathaiz.pdb
